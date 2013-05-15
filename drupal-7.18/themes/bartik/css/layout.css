@@ -8,7 +8,7 @@ body,
 }
 #page-wrapper {
   min-height: 100%;
-  min-width: 960px;
+  min-width: 1160px;
 }
 #header div.section,
 #featured div.section,
@@ -17,7 +17,7 @@ body,
 #triptych,
 #footer-columns,
 #footer {
-  width: 960px;
+  width: 1160px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -63,7 +63,7 @@ body,
   width: 480px;
 }
 .no-sidebars #content {
-  width: 960px;
+  width: 1160px;
   float: none;
 }
 #sidebar-first,
@@ -97,6 +97,6 @@ body,
   width: 220px;
 }
 #footer {
-  width: 940px;
-  min-width: 920px;
+  width: 1140px;
+  min-width: 1120px;
 }
